@@ -1,0 +1,17 @@
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\UI_test\Release\net6.0-windows\UI_test.exe
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\UI_test\Release\net6.0-windows\UI_test.deps.json
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\UI_test\Release\net6.0-windows\UI_test.runtimeconfig.json
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\UI_test\Release\net6.0-windows\UI_test.dll
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\UI_test\Release\net6.0-windows\UI_test.pdb
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.main.resources
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.csproj.GenerateResource.cache
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.dll
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\refint\UI_test.dll
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.pdb
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\UI_test.genruntimeconfig.cache
+C:\Users\devel\Desktop\CS_Divide_Work\UI_Project\UI_test\obj\Release\net6.0-windows\ref\UI_test.dll

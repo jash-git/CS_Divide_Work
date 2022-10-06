@@ -1,0 +1,12 @@
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\LogFile\x86\Debug\net6.0\LogFile.deps.json
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\LogFile\x86\Debug\net6.0\LogFile.dll
+C:\Users\devel\Desktop\CS_Divide_Work\All_Bin\LogFile\x86\Debug\net6.0\LogFile.pdb
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.csproj.AssemblyReference.cache
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.AssemblyInfoInputs.cache
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.AssemblyInfo.cs
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.csproj.CoreCompileInputs.cache
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.dll
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\refint\LogFile.dll
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\LogFile.pdb
+C:\Users\devel\Desktop\CS_Divide_Work\DLL_Project\LogFile\obj\x86\Debug\net6.0\ref\LogFile.dll

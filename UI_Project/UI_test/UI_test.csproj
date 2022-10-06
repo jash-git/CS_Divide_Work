@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<Platforms>AnyCPU;x86</Platforms><!-- 編譯模式 -->
+
+	<!-- 版本編號 & 編譯結果輸出路徑 start -->
+	<AssemblyVersion>1.0.0.1</AssemblyVersion>
+	<FileVersion>1.0.0.1</FileVersion>
+	<BaseOutputPath>..\..\All_Bin\UI_test</BaseOutputPath>
+	<!-- 版本編號 & 編譯結果輸出路徑 end -->
+	
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LogFile">
+	  <HintPath>..\..\All_Bin\LogFile\x86\Debug\net6.0\LogFile.dll</HintPath>
+	  <!--<HintPath>..\..\All_Bin\LogFile\x86\Release\net6.0\LogFile.dll</HintPath> -->
+    </Reference>
+    <Reference Include="WinForms_Share">
+	  <HintPath>..\..\All_Bin\WinForms_Share\x86\Debug\net6.0-windows\WinForms_Share.dll</HintPath>
+	  <!--<HintPath>..\..\All_Bin\WinForms_Share\x86\Release\net6.0-windows\WinForms_Share.dll</HintPath>-->	
+    </Reference>
+    <Reference Include="Dy_Dll">
+	  <HintPath>..\..\All_Bin\Dy_Dll\x86\Debug\net6.0\Dy_Dll.dll</HintPath>
+	  <!--<HintPath>..\..\All_Bin\Dy_Dll\x86\Release\net6.0\Dy_Dll.dll</HintPath>-->	
+    </Reference>  
+  </ItemGroup>
+
+</Project>

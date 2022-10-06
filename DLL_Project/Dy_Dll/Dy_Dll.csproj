@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x86</Platforms>
+
+	<!-- 版本編號 & 編譯結果輸出路徑 start -->
+	<AssemblyVersion>1.0.0.2</AssemblyVersion>
+	<FileVersion>1.0.0.2</FileVersion>
+	<BaseOutputPath>..\..\All_Bin\Dy_Dll</BaseOutputPath>
+	<!-- 版本編號 & 編譯結果輸出路徑 end -->	  
+  </PropertyGroup>
+
+</Project>
